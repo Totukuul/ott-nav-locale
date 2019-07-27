@@ -142,7 +142,7 @@
     <string name="disk_is_full">Salvestamine on täis. Puhastage ruumi.</string>
     <string name="channel_more_hide_desc">Eemalda loendist</string>
     <string name="change_applies_in_few_min">Muutus kehtib mõne minuti pärast</string>
-    <string name="hud_short_volume">Maht</string>
+    <string name="hud_short_volume">Valjus</string>
     <string name="hud_short_bright">Heledus</string>
 
     <string name="settings_provider">Pakkuja</string>
